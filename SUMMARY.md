@@ -1,3 +1,6 @@
 # Table of contents
 
-* [Page](README.md)
+## Effect.ts
+
+* [Creating Effects](README.md)
+* [Running Effects](effect.ts/running-effects.md)
