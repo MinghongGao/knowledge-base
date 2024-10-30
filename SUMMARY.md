@@ -12,3 +12,4 @@
 ***
 
 * [What are side effects ?](what-are-side-effects.md)
+* [Atlassian Code Challenges](atlassian-code-challenges.md)
