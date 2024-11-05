@@ -12,5 +12,10 @@
 ***
 
 * [What are side effects ?](what-are-side-effects.md)
-* [Atlassian Code Challenges](atlassian-code-challenges.md)
 * [Colab - Atlassian Code Challenges](https://colab.research.google.com/drive/1fCm7WfxQgRGFCP23NhxoBMkKgL4eoyis?usp=sharing)
+
+## Group 1
+
+* [Atlassian Code Challenges](group-1/atlassian-code-challenges/README.md)
+  * [Page 1](group-1/atlassian-code-challenges/page-1.md)
+* [Algorithm and Data structure](group-1/algorithm-and-data-structure.md)
