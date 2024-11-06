@@ -15,6 +15,5 @@
 
 ## Group 1
 
-* [Atlassian Code Challenges](group-1/atlassian-code-challenges.md)
 * [Colab - Atlassian Code Challenges](https://colab.research.google.com/drive/1fCm7WfxQgRGFCP23NhxoBMkKgL4eoyis?usp=sharing)
 * [Algorithm and Data structure](group-1/algorithm-and-data-structure.md)
